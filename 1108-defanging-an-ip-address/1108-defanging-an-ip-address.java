@@ -8,9 +8,8 @@ class Solution {
             }
             else{
                 b+=a;
-            } 
-                
-        }
+            }             
+                }
         
         return b;
     }
