@@ -1,0 +1,22 @@
+class Solution {
+    public String generateTheString(int n) {
+        String s = "";
+
+if (n % 2 == 1) {
+    for (int i = 0; i < n; i++) {
+        s += "a";
+    }
+} else {
+    for (int i = 0; i < n - 1; i++) {
+        s += "a";
+    }
+    s += "b";
+}
+
+return s;
+    }
+}
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
