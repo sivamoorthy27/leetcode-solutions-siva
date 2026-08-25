@@ -24,6 +24,7 @@ leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,4 +33,5 @@ leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 <!---LeetCode Topics End-->
