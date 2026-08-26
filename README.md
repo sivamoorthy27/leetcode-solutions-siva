@@ -25,6 +25,7 @@ leetcode solutions
 | ------- | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
+| [3174-clear-digits](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3174-clear-digits/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,4 +35,12 @@ leetcode solutions
 | ------- | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3174-clear-digits](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3174-clear-digits/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3174-clear-digits](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3174-clear-digits/) | Easy |
 <!---LeetCode Topics End-->
