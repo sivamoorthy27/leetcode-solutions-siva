@@ -44,8 +44,17 @@ leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3174-clear-digits](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3174-clear-digits/) | Easy |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3200-maximum-height-of-a-triangle](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3200-maximum-height-of-a-triangle/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 <!---LeetCode Topics End-->
