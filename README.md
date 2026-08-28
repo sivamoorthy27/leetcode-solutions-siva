@@ -10,6 +10,7 @@ leetcode solutions
 | [1684-count-the-number-of-consistent-strings](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [3200-maximum-height-of-a-triangle](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3200-maximum-height-of-a-triangle/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,6 +24,7 @@ leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
