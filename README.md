@@ -9,6 +9,7 @@ leetcode solutions
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [3200-maximum-height-of-a-triangle](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3200-maximum-height-of-a-triangle/) | Easy |
+| [3354-make-array-elements-equal-to-zero](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -17,6 +18,7 @@ leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [3354-make-array-elements-equal-to-zero](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +48,7 @@ leetcode solutions
 | ------- | ------- |
 | [3174-clear-digits](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3174-clear-digits/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+| [3354-make-array-elements-equal-to-zero](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
