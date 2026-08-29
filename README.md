@@ -30,6 +30,7 @@ leetcode solutions
 | ------- | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3174-clear-digits](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3174-clear-digits/) | Easy |
 | [3210-find-the-encrypted-string](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3210-find-the-encrypted-string/) | Easy |
 ## Bit Manipulation
@@ -63,4 +64,8 @@ leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1768-merge-strings-alternately](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/1768-merge-strings-alternately/) | Easy |
 <!---LeetCode Topics End-->
