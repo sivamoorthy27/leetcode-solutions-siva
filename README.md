@@ -34,6 +34,7 @@ leetcode solutions
 | [1704-determine-if-string-halves-are-alike](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [3174-clear-digits](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3174-clear-digits/) | Easy |
 | [3210-find-the-encrypted-string](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3210-find-the-encrypted-string/) | Easy |
 ## Bit Manipulation
