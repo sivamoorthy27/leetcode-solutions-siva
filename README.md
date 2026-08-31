@@ -9,6 +9,7 @@ leetcode solutions
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3200-maximum-height-of-a-triangle](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3200-maximum-height-of-a-triangle/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
@@ -26,6 +27,7 @@ leetcode solutions
 | ------- | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 ## String
 | Problem Name | Difficulty |
