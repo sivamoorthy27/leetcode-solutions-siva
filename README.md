@@ -41,6 +41,7 @@ leetcode solutions
 | [2264-largest-3-same-digit-number-in-string](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [3174-clear-digits](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3174-clear-digits/) | Easy |
 | [3210-find-the-encrypted-string](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3210-find-the-encrypted-string/) | Easy |
+| [3931-check-adjacent-digit-differences](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
