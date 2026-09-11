@@ -62,6 +62,7 @@ leetcode solutions
 | [3174-clear-digits](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3174-clear-digits/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
+| [3959-check-good-integer](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3959-check-good-integer/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@ leetcode solutions
 | ------- | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+| [3959-check-good-integer](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/3959-check-good-integer/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
