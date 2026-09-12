@@ -6,6 +6,7 @@ leetcode solutions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1046-last-stone-weight](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/1046-last-stone-weight/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
@@ -85,4 +86,8 @@ leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1046-last-stone-weight](https://github.com/sivamoorthy27/leetcode-solutions-siva/tree/main/1046-last-stone-weight/) | Easy |
 <!---LeetCode Topics End-->
